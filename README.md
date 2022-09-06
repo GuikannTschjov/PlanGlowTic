@@ -1,10 +1,10 @@
 # 遍荧黑体 — PlanGlowTic
 
-![亮点：鬼父后入女儿](https://raw.githubusercontent.com/GuikannTschjov/PlanGlowTic/main/PlanGlowTic.png)
+![亮点：𫙉𰃙𱙂](https://raw.githubusercontent.com/GuikannTschjov/PlanGlowTic/main/PlanGlowTic.png)
 
 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)与[未来荧黑](https://github.com/welai/glow-sans)的缝合。就是把遍黑体机械压缩到80%再用[字体缝合器](https://github.com/nowar-fonts/Warcraft-Font-Merger)和未来荧黑最窄体缝合起来而已。
 
-和遍黑体（2022/09/06）一样，可以显示扩展FGH区所有汉字、BCD区部分汉字。
+和遍黑体（截至2022/09/06）一样，可以显示扩展FGH区所有汉字、BCD区部分汉字。
 
 自用。
 
@@ -17,7 +17,7 @@
 
 ## 问题
 
-*由于字体的65536字形限制，无法显示谚文音节。但却能用OpenType特效显示古谚文。
+*由于字体的65536字形限制，无法显示谚文音节。但却能用OpenType特效显示古谚文和真动态组字谚文。
 *因为是机械压缩，有些字竖画比较细。本来还可以用FontCreator的加粗功能横向加粗的。可是遍黑体的笔画是拆开的，无论直接加粗还是合并字形都会出BUG。
 
 ## 备考
